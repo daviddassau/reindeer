@@ -28,3 +28,4 @@ Your task is to loop through all the reindeer in the array, and add the name of 
 >  
 > ...
 
+![](3_Reindeer.png)
